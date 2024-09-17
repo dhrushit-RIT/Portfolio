@@ -1,5 +1,8 @@
 # About me
 
+<a href="Assets/remote/Resume_Dhrushit_Raval.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:dhrushit.work@gmail.com"><img src="https://img.shields.io/badge/Email-dhrushit-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dhrushit-raval/" target="_blank"><img src="https://img.shields.io/badge/linkedin-dhrushit_raval-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/r_dhrushit" target="_blank"><img src="https://img.shields.io/badge/twitter-r_dhrushit-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+
 Hi! I'm Dhrushit 👋 
 
 Pleasure to meet you.
