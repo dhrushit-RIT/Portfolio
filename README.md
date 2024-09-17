@@ -16,9 +16,10 @@ I am a passionate iOS developer with a knack for building seamless and impactful
 | --- | --- |
 | 💻 | Swift |
 | 🎨 | SwiftUI |
-|  |  |
 
-![Meals Dashboard.png](Assets/remote/Meals_Dashboard.png) ![Meal Details.png](Assets/remote/Meal_Details.png) ![Meals Recording.gif](Assets/remote/Meals_Recording.gif)
+<img src="Assets/remote/Meals_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/Meal_Details.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/Meals_Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
 
 ### Description
 
@@ -34,9 +35,13 @@ The app, built with SwiftUI, offers a curated list of delicious desserts for use
 | --- | --- |
 | 💻 | Swift |
 | 🎨 | SwiftUI |
-| 📚 | HealthKit |
+| 📚 | HealthKit, SwiftCharts |
 
-![Steps Dashboard.png](Assets/remote/Steps_Dashboard.png) ![Weight Dashboard.png](Assets/remote/Weight_Dashboard.png) ![Recording.gif](Assets/remote/Recording.gif)
+
+
+<img src="Assets/remote/Steps_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/Weight_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
 
 ### Description
 
@@ -52,10 +57,15 @@ This app, built with SwiftUI as part of a Sean Allen course, leverages HealthKit
 | 🎨 | UIKit |
 | 📀 | UserDefaults |
 
-![GitHub Followers Home.png](Assets/remote/GitHub_Followers_Home.png) ![GitHub Followers List.png](Assets/remote/GitHub_Followers_List.png) ![GitHub Followers Recording.gif](Assets/remote/GitHub_Followers_Recording.gif)
 
-![GitHub Followers No Followers.png](Assets/remote/GitHub_Followers_No_Followers.png) ![GitHub Followers Favorites.png](Assets/remote/GitHub_Followers_Favorites.png) ![GitHub Followers Error State.png](Assets/remote/GitHub_Followers_Error_State.png)
+<img src="Assets/remote/GitHub_Followers_Home.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/GitHub_Followers_List.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/GitHub_Followers_Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+
+<img src="Assets/remote/GitHub_Followers_No_Followers.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/GitHub_Followers_Favorites.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/GitHub_Followers_Error_State.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
 
 ### Description
 
-This app, developed as part of a Sean Allen course, allows users to manage their social connections effectively. It displays a list of followers using a Collection View and enables users to mark their favorite followers for easier tracking. Favorited followers are stored using User Defaults for persistent storage. The app also features a Table View to display the list of favorited followers, providing a streamlined way to organize and access important social contacts.
+This app, developed as part of a Sean Allen course, allows users to manage their social connections effectively. It displays a list of followers using a `UICollectionView` and enables users to mark their favorite followers for easier tracking. Favorited followers are stored using User Defaults for persistent storage. The app also features a `UITableView` to display the list of favorited followers, providing a streamlined way to organize and access important social contacts.
