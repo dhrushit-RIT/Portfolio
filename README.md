@@ -17,9 +17,7 @@ I am a passionate iOS developer with a knack for building seamless and impactful
 | 💻 | Swift |
 | 🎨 | SwiftUI |
 
-<img src="Assets/remote/Meals_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
-<img src="Assets/remote/Meal_Details.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
-<img src="Assets/remote/Meals_Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/Meals_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/Meal_Details.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/Meals_Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
 
 ### Description
 
@@ -39,9 +37,7 @@ The app, built with SwiftUI, offers a curated list of delicious desserts for use
 
 
 
-<img src="Assets/remote/Steps_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
-<img src="Assets/remote/Weight_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
-<img src="Assets/remote/Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/Steps_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/Weight_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
 
 ### Description
 
@@ -58,13 +54,9 @@ This app, built with SwiftUI as part of a Sean Allen course, leverages HealthKit
 | 📀 | UserDefaults |
 
 
-<img src="Assets/remote/GitHub_Followers_Home.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
-<img src="Assets/remote/GitHub_Followers_List.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
-<img src="Assets/remote/GitHub_Followers_Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/GitHub_Followers_Home.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/GitHub_Followers_List.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/GitHub_Followers_Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
 
-<img src="Assets/remote/GitHub_Followers_No_Followers.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
-<img src="Assets/remote/GitHub_Followers_Favorites.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
-<img src="Assets/remote/GitHub_Followers_Error_State.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/GitHub_Followers_No_Followers.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/GitHub_Followers_Favorites.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/GitHub_Followers_Error_State.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
 
 ### Description
 
