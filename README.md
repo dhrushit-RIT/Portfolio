@@ -26,8 +26,6 @@ I am a passionate iOS developer with a knack for building seamless and impactful
 
 The app, built with SwiftUI, offers a curated list of delicious desserts for users to explore. With a simple tap, users can view detailed recipes, including ingredients and step-by-step instructions. The app dynamically loads data, ensuring a fresh and diverse selection of dessert recipes is always available.
 
-# From Courses
-
 ## Step Tracker
 
 ### Tech Stack
