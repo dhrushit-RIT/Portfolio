@@ -11,7 +11,7 @@ I am a passionate iOS developer with a knack for building seamless and impactful
 
 # iOS Projects
 
-## Desert Recipes
+## [Desert Recipes](https://github.com/dhrushit-RIT/Fetch-Screening-Project)
 
 ### Tech Stack
 
@@ -26,7 +26,7 @@ I am a passionate iOS developer with a knack for building seamless and impactful
 
 The app, built with SwiftUI, offers a curated list of delicious desserts for users to explore. With a simple tap, users can view detailed recipes, including ingredients and step-by-step instructions. The app dynamically loads data, ensuring a fresh and diverse selection of dessert recipes is always available.
 
-## Step Tracker
+## [Step Tracker](https://github.com/dhrushit-RIT/step-tracker)
 
 ### Tech Stack
 
@@ -44,7 +44,7 @@ The app, built with SwiftUI, offers a curated list of delicious desserts for use
 
 This app, built with SwiftUI as part of a Sean Allen course, leverages HealthKit to track and visualize health data effectively. It displays the number of steps taken in a bar chart, alongside a pie chart representing the average steps for each day of the week. Additionally, it features a weight chart using a line graph to show trends over time and a bar chart to highlight changes in weight over the past week. The app provides users with a clear and dynamic way to monitor their health metrics.
 
-## Github Followers
+## [Github Followers](https://github.com/dhrushit-RIT/GithubFollowersProject)
 
 ### Tech Stack
 
