@@ -20,7 +20,9 @@ I am a passionate iOS developer with a knack for building seamless and impactful
 | 💻 | Swift |
 | 🎨 | SwiftUI |
 
-<img src="Assets/remote/Meals_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/Meal_Details.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/Meals_Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+<img src="Assets/remote/Meals_Dashboard.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/Meals_Instructions.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/Meals_Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
+
+<img src="Assets/remote/Meals_Ingredients.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/Meals_Search.png" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;"> <img src="Assets/remote/Meals_Search_Recording.gif" alt="Image 1" width="200" style="display: inline-block; margin-right: 10px;">
 
 ### Description
 
