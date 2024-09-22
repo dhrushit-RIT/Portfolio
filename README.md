@@ -28,6 +28,12 @@ I am a passionate iOS developer with a knack for building seamless and impactful
 
 The app, built with SwiftUI, offers a curated list of delicious desserts for users to explore. With a simple tap, users can view detailed recipes, including ingredients and step-by-step instructions. The app dynamically loads data, ensuring a fresh and diverse selection of dessert recipes is always available.
 
+- Implemented search, with recipe name
+- `ScrollView` with `paging` style
+- `Picker` for chosing type of information to show
+- `Sheet` to present details about the recipe
+- `AsyncImage` for asynchronous image fetching, with placeholder to prevent showing different layouts with and without image.
+
 ## [Step Tracker](https://github.com/dhrushit-RIT/step-tracker)
 
 ### Tech Stack
